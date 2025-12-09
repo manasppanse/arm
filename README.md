@@ -20,14 +20,12 @@ A real-time, clean & fast agent-based model of *Ropalidia marginata* wasps. No c
 ```bash
 git clone https://github.com/manasppanse/arm.git
 cd arm
-python -m venv venv
-venv\Scripts\activate 
 pip install -r requirements.txt
 python main.py
 ```
 *RECOMMENDED: Create a Virtual Environment BEFORE Installing Requirements.*
 
-Press **START SIM** — watch a wasp colony perfectly feed it's young using local heuristics.
+Press **START SIM** — Watch a Wasp Colony Perfectly Feed it's Young using Local Heuristics.
 
 ## ✨ Core Features
 

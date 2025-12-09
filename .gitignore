@@ -1,2 +1,30 @@
+# Virtual Env
 .venv/
-__pycache__
+venv/
+env/
+
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+*.so
+
+# PyInstaller Build Garbage
+build/
+dist/
+*.spec
+*.exe
+*.app
+
+# IDE / Editor Junk
+.vscode/
+*.code-workspace
+
+# OS Junk
+.DS_Store
+Thumbs.db
+
+# Logs & Temp Files
+*.log
+*.tmp
